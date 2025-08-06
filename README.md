@@ -11,6 +11,8 @@ A minimal yet powerful AI-powered email generator and sender. This project:
 ##  Live Preview
 
  [Live Frontend](https://ai-emailsender.netlify.app/)
+ [Live backend](https://ai-emailsender-1.onrender.com/)
+
 
  Local Dev URL: http://localhost:5000
 
@@ -56,3 +58,4 @@ cd frontend
 npm install
 npm run dev          # runs frontend on http://localhost:5173
 ```
+
