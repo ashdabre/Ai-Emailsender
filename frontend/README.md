@@ -10,9 +10,8 @@ A minimal yet powerful AI-powered email generator and sender. This project:
 
 ## 🌐 Live Preview
 
-🔗 [Live Frontend](https://ai-emailsender.netlify.app/)
+🔗 [Live Frontend](https://ai-email-r.netlify.app/)
 
-💻 Local Dev URL: http://localhost:5000
 
 ---
 
