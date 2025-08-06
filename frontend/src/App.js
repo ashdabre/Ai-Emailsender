@@ -13,7 +13,7 @@ function App() {
   const generateEmail = async () => {
     setLoading(true);
     try {
-      const res = await axios.post("https://ai-emailsender.onrender.com/generate-email", {
+      const res = await axios.post("https://ai-emailsender-1.onrender.com/generate-email", {
         prompt,
       });
 
@@ -34,7 +34,7 @@ function App() {
 
   const sendEmail = async () => {
     try {
-      await axios.post("https://ai-emailsender.onrender.com/send-email", {
+      await axios.post("https://ai-emailsender-1.onrender.com/send-email", {
         recipients,
         subject,
         body: emailContent,
