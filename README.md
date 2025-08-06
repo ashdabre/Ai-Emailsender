@@ -10,7 +10,7 @@ A minimal yet powerful AI-powered email generator and sender. This project:
 
 ##  Live Preview
 
- [Live Frontend](https://ai-emailsender.netlify.app/)
+ [Live Frontend](https://ai-email-r.netlify.app/)
 
 
  
@@ -61,5 +61,6 @@ cd frontend
 npm install
 npm run dev          # runs frontend on http://localhost:5173
 ```
+
 
 
